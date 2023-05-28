@@ -286,7 +286,7 @@ button {
 }
 
 .swiper-button-next {
-  background-image: url(img/svg/next.svg);
+  background-image: url(./img/svg/next.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -297,7 +297,7 @@ button {
 }
 
 .swiper-button-prev {
-  background-image: url(img/svg/prew.svg);
+  background-image: url(./img/svg/prew.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
